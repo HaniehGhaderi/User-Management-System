@@ -23,18 +23,16 @@ A simple User Management System built with Python to practice OOP, CRUD operatio
 
 ## Project Structure
 
-```text
+text
 User-Management-System/
 ├── Case.py
 ├── usersCase.json
 └── README.md
-```
+
 
 ## Run
-
-```bash
 python Case.py
-```
+
 
 ## Future Improvements
 
